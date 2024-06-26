@@ -5,8 +5,8 @@
 
 > # OpneSW-SDI materials
 
-**Cloud-Barista Community actively contributes to multi-cloud technology advancement**, and we share documentation 
-outputs throughout the development process, fostering a collaborative ecosystem for continuous innovation in multi-cloud technology.
+**The OpenSW-SDI community is actively contributing to the advancement of mobility-specific infrastructure technologies in response to the HW-aware support requirements of various mobility devices (SDV, UAM, Robot, etc.) in the future mobility society.**
+and we share documentation results throughout the development process to foster a collaborative ecosystem for continuous innovation in software defined infrastructure (SDI) technology.
 
 Since 2019, Cloud-Barista Community has been researching and developing multi-cloud common platform technology. From 2023, we plan to expand to cloud migration technology based on multi-cloud common platform technology.
 
