@@ -1,6 +1,6 @@
 # TEST
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=OpenSW%20SDI%20Community&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Development%20of%20Software%20Defined%20Infrastructure%20Technology%20for%20Future%20Mobility&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=OpenSW%20SDI%20Community&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Defined%20Infrastructure%20for%20Future%20Mobility&descAlignY=51&descAlign=62"/>
 </p>
 
 
