@@ -14,22 +14,8 @@ We hope that this technology will facilitate distributed intelligent services am
 
 Related materials are as follows.
 
-> event presentation materials
+# event presentation materials
+> You can find presentation files.
 
-- [1st Open Conference (v0.1.0-americano)](https://github.com/cloud-barista/docs/tree/master/openseminar/v0.1.0-americano "docs/openseminar/v0.1.0-americano")
-
-- [2nd Open Conference (v0.2.0-cappuccino)](https://github.com/cloud-barista/docs/tree/master/openseminar/v0.2.0-cappuccino "docs/openseminar/v0.2.0-cappuccino")
-
-- [3rd Open Conference (v0.3.0-espresso)](https://github.com/cloud-barista/docs/tree/master/openseminar/v0.3.0-espresso "docs/openseminar/v0.3.0-espresso")
-
-- [4th Open Conference (v0.4.0-cafemocha)](https://github.com/cloud-barista/docs/tree/master/openseminar/v0.4.0-cafemocha "docs/openseminar/v0.4.0-cafemocha")
-
-- [5th Open Conference (v0.5.0-affogato)](https://github.com/cloud-barista/docs/tree/master/openseminar/v0.5.0-affogato "docs/openseminar/v0.5.0-affogato")
-
-- [6th Open Conference (v0.6.0-cafelatte)](https://github.com/cloud-barista/docs/tree/master/openseminar/v0.6.0-cafelatte "docs/openseminar/v0.6.0-cafelatte")
-
-- [7th Open Conference (v0.7.0-cortado)](https://github.com/cloud-barista/docs/tree/master/openseminar/v0.7.0-cortado "docs/openseminar/v0.7.0-cortado")
-
-- [8th Open Conference (v0.8.0-chamomile)](https://github.com/cloud-barista/docs/tree/master/openseminar/v0.8.0-chamomile "docs/openseminar/v0.8.0-chamomile")
-
+- [(24.06.12~13)Kico-off Workshop](https://github.com/OpenSW-SDI/Documents/tree/main/(24.06.12~13)%20Kick-off%20Workshop) "Documents/(24.06.12~13)%20Kick-off%20Workshop")
 <br>
