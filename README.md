@@ -14,9 +14,7 @@ We hope that this technology will facilitate distributed intelligent services am
 
 Related materials are as follows.
 
-## OpenSW-SDI Community Open Conference materials
-
-You can find presentation files.
+> event presentation materials
 
 - [1st Open Conference (v0.1.0-americano)](https://github.com/cloud-barista/docs/tree/master/openseminar/v0.1.0-americano "docs/openseminar/v0.1.0-americano")
 
