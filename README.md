@@ -10,6 +10,6 @@ and we share documentation outputs throughout the development process, fostering
 
 From 2024 to 2027, OpenSW-SDI community will conduct research and development through a pipeline(development, implementation, operation, integration, and application) of software-defined infrastructure technology.
 
-**Cloud-Barista seeks to further expand its cloud migration technology** based on the core frameworks that have been steadily developed so far. We will take an in-depth look at all of the various IT assets (i.e. infrastructure, software, and data) and provide technology to migrate them in an integrated manner. We hope this technology will help you bring your IT assets to the cloud and accelerate your successful SaaS transformation.
+We hope that this technology will facilitate distributed intelligent services among various future mobility devices, aiding the advancement towards a future mobility society.
 
-Related materials are as follows. 
+Related materials are as follows.
