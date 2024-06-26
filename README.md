@@ -3,7 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=OpenSW%20SDI%20Community&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Defined%20Infrastructure%20for%20Future%20Mobility&descAlignY=51&descAlign=62"/>
 </p>
 
-##Cloud-Barista materials
+#Cloud-Barista materials
 
 **Cloud-Barista Community actively contributes to multi-cloud technology advancement**, and we share documentation outputs throughout the development process, fostering a collaborative ecosystem for continuous innovation in multi-cloud technology.
 
