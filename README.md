@@ -17,5 +17,5 @@ Related materials are as follows.
 # event presentation materials
 > You can find presentation files.
 
-- [24.06.12~13)Kico-off Workshop](https://github.com/OpenSW-SDI/Documents/tree/main/(24.06.12~13)%20Kick-off%20Workshop)
+- [(24.06.12~13)Kick-off Workshop](https://github.com/OpenSW-SDI/Documents/tree/main/(24.06.12~13)%20Kick-off%20Workshop)
 <br>
