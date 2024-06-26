@@ -5,7 +5,7 @@
 
 > # OpneSW-SDI materials
 
-**OpenSW-SDI Community actively contributes to mobility-specific infrastructure technology advancement in response to the HW-aware support requirements of various mobility devices (SDV, UAM, Robot, etc.) in the future mobility society.**
+**OpenSW-SDI Community actively contributes to mobility-specific infrastructure technology(SDI) advancement in response to the H/W aware support requirements of various mobility devices(SDV, UAM, Robot, etc.) in the future mobility society.**
 
 and we share documentation results throughout the development process to foster a collaborative ecosystem for continuous innovation in software defined infrastructure (SDI) technology.
 
